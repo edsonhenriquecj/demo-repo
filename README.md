@@ -1,3 +1,3 @@
 #Demo
 
-Estudo sobre Git e GitHub.
+Estudo sobre Git e GitHub!
